@@ -1,0 +1,32 @@
+[
+  {
+    "Category": "New Destination",
+    "dataImage": "https://media-cdn.tripadvisor.com/media/photo-o/10/23/2b/fa/photo0jpg.jpg",
+    "dataName": "Nemberala Beach",
+    "dataRating": "9/10"
+  },
+  {
+    "Category": "New Destination",
+    "dataImage": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/d6/6f/c1/beach.jpg",
+    "dataName": "Walakiri Beach",
+    "dataRating": "9/10"
+  },
+  {
+    "Category": "New Destination",
+    "dataImage": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/97/c1/3b/koka-beach-flores-indonesie.jpg",
+    "dataName": "Koka Beach",
+    "dataRating": "9/10"
+  },
+  {
+    "Category": "Most Visited",
+    "dataImage": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/97/c1/3b/koka-beach-flores-indonesie.jpg",
+    "dataName": "Koka Beach",
+    "dataRating": "9/10"
+  },
+  {
+    "Category": "Most Visited",
+    "dataImage": "https://media-cdn.tripadvisor.com/media/photo-o/10/7c/72/32/pantai-tablolong.jpg",
+    "dataName": "Tablolong Beach",
+    "dataRating": "8/10"
+  }
+]
